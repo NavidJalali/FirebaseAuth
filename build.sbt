@@ -1,6 +1,6 @@
 name := "FirebaseAuth"
 
-scalaVersion := "2.13.7"
+scalaVersion := "2.13.12"
 
 inThisBuild(List(
   organization := "io.github.navidjalali",
